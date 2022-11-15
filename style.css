@@ -1,0 +1,19 @@
+.text-center{
+    background-color: gray;
+    color: aliceblue;
+}
+.main_div{
+    background-color: rgb(175, 172, 168);
+    height: 100%;
+}
+button{
+    margin-top: 10px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    font-size: 28px;
+    background-color: aliceblue;
+}
